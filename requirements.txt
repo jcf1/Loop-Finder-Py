@@ -1,0 +1,7 @@
+numpy==1.24.3
+opencv-python==4.8.1.78
+imagehash==4.3.1
+Pillow==10.0.1
+moviepy==1.0.3
+tqdm
+python-magic==0.4.27
